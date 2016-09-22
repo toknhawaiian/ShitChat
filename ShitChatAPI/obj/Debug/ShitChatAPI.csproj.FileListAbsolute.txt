@@ -1,0 +1,7 @@
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChatAPI\bin\Debug\ShitChatAPI.exe.config
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChatAPI\bin\Debug\ShitChatAPI.exe
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChatAPI\bin\Debug\ShitChatAPI.pdb
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChatAPI\obj\Debug\ShitChatAPI.csprojResolveAssemblyReference.cache
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChatAPI\obj\Debug\ShitChatAPI.exe
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChatAPI\obj\Debug\ShitChatAPI.pdb
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChatAPI\bin\Debug\Content\nancy-logo.png

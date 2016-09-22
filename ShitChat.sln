@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShitChatAPI", "ShitChatAPI\ShitChatAPI.csproj", "{924D525D-5259-4C18-97C8-7DF454E9C982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShitChat", "ShitChat\ShitChat.csproj", "{3FCF5F0B-106A-4541-A83C-34B5F15EEDAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924D525D-5259-4C18-97C8-7DF454E9C982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924D525D-5259-4C18-97C8-7DF454E9C982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924D525D-5259-4C18-97C8-7DF454E9C982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924D525D-5259-4C18-97C8-7DF454E9C982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCF5F0B-106A-4541-A83C-34B5F15EEDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCF5F0B-106A-4541-A83C-34B5F15EEDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCF5F0B-106A-4541-A83C-34B5F15EEDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCF5F0B-106A-4541-A83C-34B5F15EEDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

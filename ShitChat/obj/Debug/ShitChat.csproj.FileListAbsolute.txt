@@ -1,0 +1,7 @@
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChat\bin\Debug\ShitChat.dll
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChat\bin\Debug\ShitChat.pdb
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChat\bin\Debug\SimpleInjector.dll
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChat\bin\Debug\SimpleInjector.xml
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChat\obj\Debug\ShitChat.csprojResolveAssemblyReference.cache
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChat\obj\Debug\ShitChat.dll
+C:\Users\ianof\Documents\GitHub\ShitChat\ShitChat\obj\Debug\ShitChat.pdb
